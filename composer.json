@@ -1,0 +1,41 @@
+{
+  "name": "erenkucukersoftware/powerful-php",
+  "description": "⚡ Laravel Helpers, Collections and Js like object oriented chaining for Native PHP",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Eren Kucuker",
+      "email": "erenkucuker@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "^7.4|^8.0",
+    "ext-json": "*",
+    "ext-mbstring": "*",
+    "ramsey/uuid": "^4.1",
+    "symfony/var-dumper": "^5.3",
+    "voku/portable-ascii": "^1.5",
+    "league/commonmark": "^1.6",
+    "doctrine/inflector": "^2.0",
+    "illuminate/collections": "^8.46",
+    "illuminate/support": "^8.46",
+    "illuminate/validation": "^8.46",
+    "illuminate/events": "^8.46",
+    "illuminate/database": "^8.46",
+    "illuminate/log": "^8.46",
+    "illuminate/http": "^8.46",
+    "nesbot/carbon": "^2.49",
+    "cocur/chain": "^0.9.0",
+    "phpfn/pipe": "^2.0",
+    "phpunit/php-timer": "^5.0",
+    "guzzlehttp/guzzle": "^7.3",
+    "psr/log": "^1.1",
+    "monolog/monolog": "^2.2",
+    "symfony/filesystem": "^5.3",
+    "psy/psysh": "@stable"
+  },
+  "require-dev": {
+    "nunomaduro/collision": "^5.4"
+  }
+}
